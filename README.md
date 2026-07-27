@@ -88,10 +88,7 @@ Desenvolvido por Leonardo Milanez da Cunha Prado 📍 Estudante de Ciências da 
 .
 ├── src/
 │   └── solucao_matricial.c    # Código-fonte principal com a resolução do sistema
-├── tests/
 │   ├── input-A.in             # Caso de teste A (Entrada)
 │   ├── input-B.in             # Caso de teste B (Entrada)
 │   └── output-expected.out    # Saída esperada para validação dos resultados
-├── doc/
-│   └── Trabalho-2.pdf         # Especificação e enunciado do trabalho acadêmico
 └── README.md
